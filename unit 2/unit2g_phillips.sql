@@ -49,10 +49,7 @@ LIMIT 10;
 -- 6. Pick any query from this unit you found interesting, run it, and
 --    export the results to CSV. Name the file
 --    unit2_report_lastname.csv and commit it alongside this file.
-SELECT name
-FROM people
-WHERE birth_year IS NULL
-LIMIT 10;
+
 
 -- =====================================================================
 -- CHECK YOUR WORK
